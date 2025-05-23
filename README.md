@@ -71,13 +71,14 @@ Using ResNet-18 for facial expression classification offered moderate performanc
 
 ### 3. Multimodal classification using a late fusion of both models
 By combining predictions from both modalities using a late fusion strategy, we observed a significant boost in classification performance.
+
 ![es-5](https://github.com/user-attachments/assets/41791f9a-ae15-49c7-8e55-56058f7fb7af)
 
 
 ## Conclusion
-This project provided an introduction to both Computer Vision and Natural Language Processing. Through hands-on implementation, we explored key machine learning concepts such as linear and logistic regression, artificial neural networks (ANNs), and loss functions. In the CV module, we learned to process facial images using Convolutional Neural Networks (CNNs) and advanced architectures like ResNet, gaining insight into feature extraction and model fine-tuning.
+This project provided an introduction to both Computer Vision and Natural Language Processing. Through hands-on implementation, we explored key machine learning concepts such as linear and logistic regression, artificial neural networks (ANNs), and loss functions. In the CV module, we learned to process facial images using Convolutional Neural Networks (CNNs) and advanced architectures like ResNet.
 
-On the NLP side, we explored text vectorization techniques including TF-IDF, and understood how these representations can drive emotion classification tasks. The project also introduced multimodal fusion strategies, specifically late fusion, highlighting how diverse modalities can be combined effectively to enhance predictive performance.
+On the NLP side, we explored text vectorization techniques, including TF-IDF. The project also introduced multimodal fusion strategies, specifically late fusion, highlighting how diverse modalities can be combined effectively to enhance predictive performance.
 
 ## References
 1. Dataset Paper Link: [https://arxiv.org/pdf/1810.02508.pdf](https://arxiv.org/pdf/1810.02508.pdf)
